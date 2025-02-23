@@ -1,4 +1,10 @@
 
+## Summary
+
+Python script to convert a pdf pages to images in a markdown file for viewing and adding notes in a markdown-based editor like Obsidian, logseq, etc. 
+
+### Details
+
 This script `app.py` will prompt the user for 
 ① PDF file
 ② Image destination directory
