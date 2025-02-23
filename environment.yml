@@ -1,0 +1,7 @@
+name: parse-pdf-to-markdown
+dependencies:
+  - python=3.10
+  - pdf2image
+  - pillow
+  - tk
+
